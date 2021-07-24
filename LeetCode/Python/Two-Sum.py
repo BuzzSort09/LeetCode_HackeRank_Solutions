@@ -23,7 +23,7 @@ class Solution:
         #########################################################################
             
         #########################################################################
-        # # Less thank O(n)
+        # # Less than O(n)
         # # We can find if the target exsit in the list, but can't find two indeicdes less than O(n)
         # nums.sort()     # O(nlogn)
         # left, right = 0, len(nums)-1        
